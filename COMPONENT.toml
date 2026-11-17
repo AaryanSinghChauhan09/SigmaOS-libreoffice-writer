@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-libreoffice-writer"
-description = "LibreOffice Writer word-processing workflow integration"
+description = "LibreOffice Writer ODF document processor & markdown export engine for SigmaOS"
 version = "0.1.0"
 tier = 4
 
